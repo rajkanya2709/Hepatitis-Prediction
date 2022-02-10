@@ -5,8 +5,11 @@ in one CMD ::
 In second CMD ::
 >> conda activate ml
 
+#if showing error ralated to Streamlit installation
 >> pip install streamlit
 
+# for changing the directory
 >> cd sanika
 
+#for runnig the app in localhost
 >> streamlit run app.py
