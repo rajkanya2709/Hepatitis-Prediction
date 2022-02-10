@@ -1,0 +1,12 @@
+in one CMD ::
+>> conda activate ml
+>> jupyter notebook
+
+In second CMD ::
+>> conda activate ml
+
+>> pip install streamlit
+
+>> cd sanika
+
+>> streamlit run app.py
