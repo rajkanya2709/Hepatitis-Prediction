@@ -10,20 +10,21 @@ A simple WebApp made using Streamlit library.
  * Pickle
  * Streamlit
  * ScikitLearn
- 
+
+## Interface ::
 ![image](https://user-images.githubusercontent.com/67220403/153362059-b38eef1f-3ab4-49fe-ad8f-4bb9cd50e66a.png)
 ![image](https://user-images.githubusercontent.com/67220403/153362134-ab8f770f-53af-45e0-a9cf-4a11ff903400.png)
 
 ## Steps ::
 
 In one CMD ::
- * >> conda activate ml
- * >> jupyter notebook
+ * conda activate ml
+ * jupyter notebook
 
 In second CMD ::
- * >> conda activate ml
- * >> cd sanika
- * >> streamlit run app.py
+ * conda activate ml
+ * cd sanika
+ * streamlit run app.py
 
 [//]: # "## Resource::"
 [//]: # "Resource that may help you"
