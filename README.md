@@ -1,5 +1,9 @@
-# Hepatitis-Prediction
+# Hepatitis Prediction
 Hepatitis Prediction of Machine Learning Project Using SVM.
+Used Supervised Machine Learning Algorithm/Technique.
+Model Trained on the prior available data, No further training on model is going to be done.
+Taking input from user and based on that inputed value predicting the value.
+A simple WebApp made using Streamlit library.
 ## Library Used ::
  * Pandas
  * Numpy
@@ -12,16 +16,16 @@ Hepatitis Prediction of Machine Learning Project Using SVM.
 
 ## Steps ::
 
-in one CMD ::
->> conda activate ml
->> jupyter notebook
+In one CMD ::
+ * >> conda activate ml
+ * >> jupyter notebook
 
 In second CMD ::
->> conda activate ml
+ * >> conda activate ml
 
->> cd sanika
-
->> streamlit run app.py
+ * >> cd sanika
+ * 
+ * >> streamlit run app.py
 
 [//]: # "## Resource::"
 [//]: # "Resource that may help you"
