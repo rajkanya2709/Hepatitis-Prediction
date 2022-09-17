@@ -18,10 +18,13 @@ A simple WebApp made using Streamlit library.
 ## Steps ::
 
 In one CMD ::
- '''
+ ```
  conda activate ml
+ ```
+ 
+ ```
  jupyter notebook
- '''
+ ```
 
 In second CMD ::
  * conda activate ml
