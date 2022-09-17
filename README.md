@@ -27,9 +27,14 @@ In one CMD ::
  ```
 
 In second CMD ::
- * conda activate ml
- * cd sanika
- * streamlit run app.py
+ ```conda activate ml
+ ```
+ ```
+ cd sanika
+ ```
+ ```
+ streamlit run app.py
+ ```
 
 [//]: # "## Resource::"
 [//]: # "Resource that may help you"
