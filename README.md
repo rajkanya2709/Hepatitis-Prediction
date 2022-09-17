@@ -27,7 +27,8 @@ In one CMD ::
  ```
 
 In second CMD ::
- ```conda activate ml
+ ```
+ conda activate ml
  ```
  ```
  cd sanika
