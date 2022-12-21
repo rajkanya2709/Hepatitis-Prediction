@@ -18,6 +18,12 @@ A simple WebApp made using Streamlit library.
 ## Steps ::
 
 In one CMD ::
+ For initiating new project in conda:
+ Just for first time we have to execute:
+ ```
+ conda create -n ml python=3.9
+ ```
+ 
  ```
  conda activate ml
  ```
